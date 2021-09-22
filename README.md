@@ -83,3 +83,7 @@ https://docs.google.com/document/d/1pzeh5nrP6y6A5WgT9vvxMpe-ai7ZRhU84BdAhdJzuFk/
 
 [개앞맵시] 스카이넷도 딥러닝부터 : https://www.mindmeister.com/812276967/_
 <a href="https://www.mindmeister.com/812276967/_"><img src="https://scontent.ficn1-1.fna.fbcdn.net/v/t1.0-9/57437528_2669652906441308_5442135107798302720_o.png?_nc_cat=101&_nc_ht=scontent.ficn1-1.fna&oh=9ad0ab89128728a4e810d62f803d8784&oe=5D745923" width="720"></a>
+
+## 공부용 브런치
+
+공부하기 위해 브런치를 생성 ipynb 작성
